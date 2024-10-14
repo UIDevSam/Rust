@@ -1,0 +1,1 @@
+D:\Learnings\Rust\Chapters\Chapter\ 1-Getting\ Started\Hello\ Cargo\hello_cargo\target\debug\hello_cargo.exe: D:\Learnings\Rust\Chapters\Chapter\ 1-Getting\ Started\Hello\ Cargo\hello_cargo\src\main.rs
