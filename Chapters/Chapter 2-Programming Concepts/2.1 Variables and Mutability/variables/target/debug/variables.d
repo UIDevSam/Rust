@@ -1,0 +1,1 @@
+D:\Learnings\Rust\Chapters\Chapter\ 2-Programming\ Concepts\2.1\ Variables\ and\ Mutability\variables\target\debug\variables.exe: D:\Learnings\Rust\Chapters\Chapter\ 2-Programming\ Concepts\2.1\ Variables\ and\ Mutability\variables\src\main.rs
