@@ -1,0 +1,1 @@
+D:\Learnings\Rust\Chapters\Chapter\ 2-Programming\ Concepts\2.2\ Data\ Types\data_types\target\debug\data_types.exe: D:\Learnings\Rust\Chapters\Chapter\ 2-Programming\ Concepts\2.2\ Data\ Types\data_types\src\main.rs
