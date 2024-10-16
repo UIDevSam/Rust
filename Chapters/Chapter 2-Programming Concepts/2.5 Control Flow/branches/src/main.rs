@@ -10,6 +10,7 @@ fn main() {
     }
 
 // ************ Error in if conditions ************
+
     //  let number = 3;
 
     //     if number {
